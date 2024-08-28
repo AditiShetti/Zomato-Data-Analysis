@@ -1,10 +1,10 @@
-# Zomato-SQL
+# **Zomato-SQL**  
 This is the Zomato data analysis project using SQL.
 
-#Project Overview
+#**Project Overview**  
 This project involves analyzing Zomato restaurant data using SQL. The analysis focuses on extracting insights from restaurant data across three major cities in India: Mumbai, Delhi NCR, and Kolkata.
 
-#Dataset Description
+#**Dataset Description**  
 The dataset used in this analysis contains information about restaurants and includes the following columns:
 
  **RESTAURANT_NAME**: Name of the restaurant.  
