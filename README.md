@@ -10,16 +10,16 @@ This project involves analyzing Zomato restaurant data using SQL. The analysis f
 The dataset used in this analysis contains information about restaurants and includes the following columns:
 
 
-🍴 **RESTAURANT_NAME**: Name of the restaurant
-🏙️ **CITY**: City where the restaurant is located (e.g., Mumbai, Delhi NCR, Kolkata)
-📍 **AREA**: Specific area within the city
-⭐ **RATING**: Customer rating of the restaurant
-📊 **RATING_COUNT**: Number of ratings received
-🍲 **CUISINE**: Types of cuisine offered (e.g., Italian, Indian)
-💸 **COST_FOR_TWO**: Average cost for two people
-🏠 **ADDRESS**: Full address of the restaurant
-📲 **ONLINE_ORDER**: Whether online ordering is available
-📅 **TABLE_RESERVATION**: Whether table reservation is available
+🍴 **RESTAURANT_NAME**: Name of the restaurant  
+🏙️ **CITY**: City where the restaurant is located (e.g., Mumbai, Delhi NCR, Kolkata)  
+📍 **AREA**: Specific area within the city  
+⭐ **RATING**: Customer rating of the restaurant  
+📊 **RATING_COUNT**: Number of ratings received  
+🍲 **CUISINE**: Types of cuisine offered (e.g., Italian, Indian)  
+💸 **COST_FOR_TWO**: Average cost for two people  
+🏠 **ADDRESS**: Full address of the restaurant  
+📲 **ONLINE_ORDER**: Whether online ordering is available  
+📅 **TABLE_RESERVATION**: Whether table reservation is available  
  
 #Tools Used:
 MySQL
