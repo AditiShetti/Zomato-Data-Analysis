@@ -9,6 +9,7 @@ This project involves analyzing Zomato restaurant data using SQL. The analysis f
 #**Dataset Description**  
 The dataset used in this analysis contains information about restaurants and includes the following columns:
 
+The dataset has around 45,000 rows.  
 
 🍴 **RESTAURANT_NAME**: Name of the restaurant  
 🏙️ **CITY**: City where the restaurant is located (e.g., Mumbai, Delhi NCR, Kolkata)  
