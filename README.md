@@ -6,7 +6,7 @@ This project involves analyzing Zomato restaurant data using SQL. The analysis f
 
 ![image](https://github.com/user-attachments/assets/5bf2dc6a-c303-42b1-92d3-c056863ba5ad)
 
-#**Dataset Description**  
+# **Dataset Description**  
 The dataset used in this analysis contains information about restaurants and includes the following columns:
 
 The dataset has around 45,000 rows.  
@@ -22,8 +22,8 @@ The dataset has around 45,000 rows.
 📲 **ONLINE_ORDER**: Whether online ordering is available  
 📅 **TABLE_RESERVATION**: Whether table reservation is available  
  
-#Tools Used:
+# Tools Used:
 MySQL
 
-#For any questions or feedback, feel free to reach out at Aditishetti9060@gmail.com😊
+# For any questions or feedback, feel free to reach out at Aditishetti9060@gmail.com😊
 
