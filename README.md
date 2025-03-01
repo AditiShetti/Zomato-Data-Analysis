@@ -22,8 +22,12 @@ The dataset has around 45,000 rows.
 📲 **ONLINE_ORDER**: Whether online ordering is available  
 📅 **TABLE_RESERVATION**: Whether table reservation is available  
  
+ 
 # Tools Used:
 MySQL
+
+Zomato's Food Trends : https://www.zomato.com/trends/
+Zomato Food Trends is a data analysis platform, custom-made for the restaurant industry. It helps restaurants to set optimal menu prices, identifying trending cuisines and dishes, get insights on user preferences ,etc and helps make informed decisions.   
 
 # For any questions or feedback, feel free to reach out at Aditishetti9060@gmail.com😊
 
