@@ -24,7 +24,7 @@ The dataset has around 45,000 rows.
  
  
 # Tools Used:
-MySQL
+MySQL , Power BI (Currently working on it)  
 
 Zomato's Food Trends : https://www.zomato.com/trends/
 Zomato Food Trends is a data analysis platform, custom-made for the restaurant industry. It helps restaurants to set optimal menu prices, identifying trending cuisines and dishes, get insights on user preferences ,etc and helps make informed decisions.   
