@@ -1,5 +1,5 @@
 # **Zomato-SQL**  
-This is the Zomato data analysis project using SQL. 
+This is the Zomato data analysis project using SQL.   
 🚧 I am currently working on a Power BI dashboard.
 
 #**Project Overview**  
