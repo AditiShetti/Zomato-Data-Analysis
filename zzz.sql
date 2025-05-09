@@ -11,7 +11,7 @@ select * from zomato_data ;
 
 #REPAIR TABLE `zomato`;
 #SHOW TABLE STATUS LIKE 'zomato';
-#ALTER TABLE `zomato` ENGINE = InnoDB; #didnt work
+#ALTER TABLE `zomato` ENGINE = InnoDB;  #did'nt work
 
 
 
@@ -198,7 +198,7 @@ select restaurant,city,rating from zomato_data where rating => 3.5 and rating <=
 -- Emerging places with low rating_count but high ratings
 select city,area,restaurant,rating from zomato_data order by rating desc, rating_count asc limit 10
 
--- Overrated restaurants (Rating low ,cost high)
+-- Overrated restaurants (Rating low, cost high)
 select city, restaurant, rating, cost_for_two from zomato_data order by rating asc, cost_for_two desc
 
 
@@ -322,5 +322,5 @@ order by avg_cost desc;
   ------------------------------------ cuisine ------------------------------
   -- highest cuisines availabe in a city
 select city,  count(cuisine) as cuisine_count,group_concat(cuisine) as all_cuisine 
- from zomato_data group by city order by cuisine_count desc
+from zomato_data group by city order by cuisine_count desc
 
